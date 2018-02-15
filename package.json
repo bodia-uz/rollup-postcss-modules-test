@@ -1,0 +1,17 @@
+{
+  "name": "rollup-postcss-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup --config",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.7.2",
+    "rollup": "^0.55.5",
+    "rollup-plugin-postcss": "^1.2.8"
+  }
+}
